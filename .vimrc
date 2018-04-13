@@ -22,4 +22,16 @@ set showmatch
 set matchtime=5
 set hlsearch
 set incsearch
-
+set cul
+set cuc
+set showcmd
+set confirm
+set showmatch
+set iskeyword+=_,$,@,%,#,-
+set cmdheight=2
+set et
+set lbr
+set sw=4
+set ts=4
+set fo+=mB
+set sm
